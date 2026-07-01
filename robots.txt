@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://finansprotect.com/sitemap-index.xml

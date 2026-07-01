@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1500" viewBox="0 0 1100 1500">
+  <rect width="1100" height="1500" fill="#fff"/>
+  <rect x="70" y="70" width="960" height="1360" fill="#fff" stroke="#d6dbe5" stroke-width="3"/>
+  <text x="100" y="150" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#111827">ФАКТУРА № FP-2026-0041</text>
+  <text x="100" y="230" font-family="Arial, sans-serif" font-size="34" fill="#111827">Дата: 15.06.2026</text>
+  <text x="100" y="340" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#111827">Доставчик: Примерен доставчик ООД</text>
+  <text x="100" y="405" font-family="Arial, sans-serif" font-size="34" fill="#111827">ЕИК: 123456786</text>
+  <text x="100" y="460" font-family="Arial, sans-serif" font-size="34" fill="#111827">ДДС номер: BG123456786</text>
+  <text x="100" y="515" font-family="Arial, sans-serif" font-size="34" fill="#111827">IBAN: BG80BNBG96611020345678</text>
+  <line x1="100" y1="620" x2="1000" y2="620" stroke="#111827" stroke-width="2"/>
+  <text x="100" y="690" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#111827">Описание</text>
+  <text x="670" y="690" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#111827">Кол.</text>
+  <text x="820" y="690" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#111827">Сума</text>
+  <text x="100" y="765" font-family="Arial, sans-serif" font-size="30" fill="#111827">OCR обработка на фактура</text>
+  <text x="690" y="765" font-family="Arial, sans-serif" font-size="30" fill="#111827">1</text>
+  <text x="820" y="765" font-family="Arial, sans-serif" font-size="30" fill="#111827">120.00</text>
+  <text x="100" y="825" font-family="Arial, sans-serif" font-size="30" fill="#111827">Validation workflow</text>
+  <text x="690" y="825" font-family="Arial, sans-serif" font-size="30" fill="#111827">1</text>
+  <text x="820" y="825" font-family="Arial, sans-serif" font-size="30" fill="#111827">40.00</text>
+  <line x1="100" y1="900" x2="1000" y2="900" stroke="#111827" stroke-width="2"/>
+  <text x="650" y="980" font-family="Arial, sans-serif" font-size="34" fill="#111827">Данъчна основа: 160.00 лв</text>
+  <text x="650" y="1040" font-family="Arial, sans-serif" font-size="34" fill="#111827">ДДС 20%: 32.00 лв</text>
+  <text x="650" y="1110" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#111827">Общо: 192.00 лв</text>
+</svg>
