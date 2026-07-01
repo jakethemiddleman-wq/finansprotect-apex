@@ -1,0 +1,1 @@
+import{c as o,j as i,m as n}from"./motion.C9DOlUf-.js";function u({children:e,className:t=""}){return o()?i.jsx("div",{className:t,children:e}):i.jsx(n.div,{className:t,initial:{opacity:0,y:24},whileInView:{opacity:1,y:0},viewport:{once:!0,margin:"-80px"},transition:{duration:.55,ease:"easeOut"},children:e})}export{u as default};
