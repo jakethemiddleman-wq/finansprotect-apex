@@ -1,10 +1,10 @@
-import{r as z,j as k}from"./motion.C9DOlUf-.js";import{c as $t}from"./createLucideIcon.o_PtYgBK.js";import{A as sn}from"./arrow-right.CMgmfE2f.js";/**
- * @license lucide-react v1.23.0 - ISC
+import{r as z,j as k}from"./motion.C9DOlUf-.js";import{c as $t}from"./createLucideIcon.Y7JjKowM.js";import{A as sn}from"./arrow-right.1ZQBJHFT.js";/**
+ * @license lucide-react v1.18.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */const cn=[["path",{d:"m12 19-7-7 7-7",key:"1l729n"}],["path",{d:"M19 12H5",key:"x3x0zl"}]],un=$t("arrow-left",cn);/**
- * @license lucide-react v1.23.0 - ISC
+ * @license lucide-react v1.18.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
