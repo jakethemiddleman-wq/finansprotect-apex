@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 1200" width="1200" height="1200" font-family="'Avenir Next', Inter, sans-serif">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#153E75"/>
+      <stop offset="0.55" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#153E75"/>
+      <stop offset="0.55" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <symbol id="mark" viewBox="0 0 512 512">
+      <rect width="512" height="512" rx="116" fill="url(#brand)"/>
+      <path d="M256 92 L378 144 V244 C378 326 330 386 256 418 C182 386 134 326 134 244 V144 Z" fill="#FFFFFF" opacity="0.96"/>
+      <path d="M196 256 L240 300 L322 206" fill="none" stroke="#14B8A6" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+  </defs>
+
+  <rect width="1200" height="1200" fill="#F8FAFC"/>
+  <circle cx="120" cy="80" r="260" fill="#14B8A6" opacity="0.13"/>
+  <circle cx="1110" cy="60" r="280" fill="#8B5CF6" opacity="0.11"/>
+
+  <text x="64" y="100" font-size="48" font-weight="800" fill="#0B1F3A" letter-spacing="-1">Finans Protect OCR</text>
+  <text x="66" y="142" font-size="22" font-weight="500" fill="#64748B">Бранд асети · чернова за преглед · 2026-06-21</text>
+
+  <!-- Wordmark card -->
+  <rect x="64" y="186" width="1072" height="196" rx="28" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+  <use xlink:href="#mark" x="108" y="224" width="120" height="120"/>
+  <text x="268" y="296" font-size="52" font-weight="800" fill="#0B1F3A" letter-spacing="-1.5">Finans Protect <tspan fill="#14B8A6">OCR</tspan></text>
+  <text x="270" y="340" font-size="22" font-weight="500" fill="#334155">Дигитален служител за фактури</text>
+
+  <!-- Icon card -->
+  <rect x="64" y="430" width="520" height="384" rx="28" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+  <text x="104" y="476" font-size="16" font-weight="700" fill="#94A3B8" letter-spacing="1">ИКОНКА · APP · PWA MASKABLE</text>
+  <use xlink:href="#mark" x="194" y="500" width="200" height="200"/>
+  <text x="104" y="770" font-size="19" font-weight="500" fill="#475569">icon.svg → 192 · 512 · maskable · apple-touch 180</text>
+
+  <!-- Favicon card -->
+  <rect x="616" y="430" width="520" height="384" rx="28" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+  <text x="656" y="476" font-size="16" font-weight="700" fill="#94A3B8" letter-spacing="1">ФАВИКОН · РЕАЛНИ РАЗМЕРИ</text>
+  <use xlink:href="#mark" x="668" y="512" width="64" height="64"/>
+  <use xlink:href="#mark" x="772" y="528" width="48" height="48"/>
+  <use xlink:href="#mark" x="860" y="544" width="32" height="32"/>
+  <use xlink:href="#mark" x="932" y="560" width="16" height="16"/>
+  <text x="700" y="606" font-size="14" fill="#94A3B8" text-anchor="middle">64</text>
+  <text x="796" y="606" font-size="14" fill="#94A3B8" text-anchor="middle">48</text>
+  <text x="876" y="606" font-size="14" fill="#94A3B8" text-anchor="middle">32</text>
+  <text x="940" y="606" font-size="14" fill="#94A3B8" text-anchor="middle">16</text>
+  <rect x="656" y="660" width="448" height="66" rx="14" fill="#EEF2F7"/>
+  <use xlink:href="#mark" x="678" y="677" width="32" height="32"/>
+  <text x="722" y="700" font-size="18" font-weight="600" fill="#334155">Finans Protect OCR — защита</text>
+  <circle cx="1076" cy="693" r="9" fill="#CBD5E1"/>
+
+  <!-- Color swatches -->
+  <g>
+    <rect x="64" y="862" width="250" height="80" rx="16" fill="#153E75"/>
+    <text x="189" y="910" font-size="21" font-weight="700" fill="#FFFFFF" text-anchor="middle">#153E75</text>
+    <text x="189" y="970" font-size="16" font-weight="500" fill="#475569" text-anchor="middle">Primary</text>
+
+    <rect x="346" y="862" width="250" height="80" rx="16" fill="#0B1F3A"/>
+    <text x="471" y="910" font-size="21" font-weight="700" fill="#FFFFFF" text-anchor="middle">#0B1F3A</text>
+    <text x="471" y="970" font-size="16" font-weight="500" fill="#475569" text-anchor="middle">Primary Dark</text>
+
+    <rect x="628" y="862" width="250" height="80" rx="16" fill="#14B8A6"/>
+    <text x="753" y="910" font-size="21" font-weight="700" fill="#FFFFFF" text-anchor="middle">#14B8A6</text>
+    <text x="753" y="970" font-size="16" font-weight="500" fill="#475569" text-anchor="middle">Teal</text>
+
+    <rect x="910" y="862" width="226" height="80" rx="16" fill="#8B5CF6"/>
+    <text x="1023" y="910" font-size="21" font-weight="700" fill="#FFFFFF" text-anchor="middle">#8B5CF6</text>
+    <text x="1023" y="970" font-size="16" font-weight="500" fill="#475569" text-anchor="middle">Accent</text>
+  </g>
+
+  <!-- Lockup variants strip -->
+  <text x="64" y="1036" font-size="16" font-weight="700" fill="#94A3B8" letter-spacing="1">ВАРИАНТИ НА ЛОГОТО</text>
+  <rect x="64" y="1052" width="520" height="58" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+  <text x="90" y="1089" font-size="22" font-weight="800" fill="#0B1F3A">Finans Protect OCR</text>
+  <text x="430" y="1089" font-size="14" font-weight="500" fill="#94A3B8">mono</text>
+  <rect x="616" y="1052" width="520" height="58" rx="14" fill="#0B1F3A"/>
+  <text x="642" y="1089" font-size="22" font-weight="800" fill="#FFFFFF">Finans Protect OCR</text>
+  <text x="1000" y="1089" font-size="14" font-weight="500" fill="#64748B">white</text>
+
+  <!-- Footer gradient bar -->
+  <rect x="0" y="1140" width="1200" height="60" fill="url(#bar)"/>
+  <text x="64" y="1177" font-size="18" font-weight="700" fill="#FFFFFF">Manrope · Inter</text>
+  <text x="1136" y="1177" font-size="15" font-weight="500" fill="#E0F2FE" text-anchor="end">недеструктивна чернова · нищо съществуващо не е презаписано</text>
+</svg>

@@ -1,1 +1,0 @@
-import{t as i}from"./analytics.zAvm_NWc.js";const a=()=>{window.__fpPricingCtaBound||(window.__fpPricingCtaBound=!0,document.addEventListener("click",n=>{const t=n.target instanceof Element?n.target.closest("[data-pricing-cta]"):null;t instanceof HTMLElement&&i("pricing_cta_clicked",{plan:t.dataset.pricingCta||"unknown"})}))};a();

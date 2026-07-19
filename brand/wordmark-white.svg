@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 760 200" width="760" height="200" role="img" aria-label="Finans Protect">
+  <defs>
+    <symbol id="markWhite" viewBox="0 0 512 512">
+      <rect width="512" height="512" rx="116" fill="#FFFFFF" opacity="0.12"/>
+      <rect x="14" y="14" width="484" height="484" rx="104" fill="none" stroke="#FFFFFF" stroke-width="10" opacity="0.5"/>
+      <path d="M256 92 L378 144 V244 C378 326 330 386 256 418 C182 386 134 326 134 244 V144 Z" fill="#FFFFFF" opacity="0.96"/>
+      <path d="M196 256 L240 300 L322 206" fill="none" stroke="#0B1F3A" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+  </defs>
+  <use xlink:href="#markWhite" x="24" y="34" width="132" height="132"/>
+  <text x="184" y="106" font-family="Manrope, 'Avenir Next', Inter, sans-serif" font-size="58" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">Finans Protect</text>
+  <text x="186" y="148" font-family="Inter, 'Helvetica Neue', sans-serif" font-size="25" font-weight="500" fill="#CBD5E1">Дигитален служител за фактури</text>
+</svg>

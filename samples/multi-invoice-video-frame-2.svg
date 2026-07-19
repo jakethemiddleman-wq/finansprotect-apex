@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Synthetic invoice two video frame">
+  <rect width="640" height="360" fill="#f8fafc"/>
+  <rect x="48" y="34" width="544" height="292" rx="18" fill="#ffffff" stroke="#334155" stroke-width="3"/>
+  <text x="80" y="86" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#0f172a">SYNTHETIC INVOICE B</text>
+  <text x="80" y="136" font-family="Arial, sans-serif" font-size="24" fill="#0f172a">Invoice No: INV-VIDEO-002</text>
+  <text x="80" y="178" font-family="Arial, sans-serif" font-size="22" fill="#334155">Vendor: Demo Video Supplier B LLC</text>
+  <text x="80" y="220" font-family="Arial, sans-serif" font-size="22" fill="#334155">Item: OCR pipeline test bundle</text>
+  <text x="80" y="268" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0369a1">Total: 240.00 BGN</text>
+</svg>
